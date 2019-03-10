@@ -5,9 +5,14 @@
 
 # Need to do 
 Movie
+
 	- director
+	
 	- cast/actors
+	
 	- release year
+	
+	
 
 # Install and Start mongodb
 ```
