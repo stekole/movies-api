@@ -3,7 +3,7 @@ package dao
 import (
 	"log"
 
-	. "github.com/stekole/api/models"
+	. "github.com/stekole/movies-api/models"
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )
